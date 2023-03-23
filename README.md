@@ -9,7 +9,4 @@ My name is Igor and I just study QA Engineer
 
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubbannov&layout=compact&theme=vision-friendly-swift)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubbannov&show_icons=true&theme=highcontrast)
