@@ -82,7 +82,8 @@
 <!-- ## <a id="volunteer_projects">Волонтерские проекты</a> -->
 <!-- ## <a id="trainee_works">Стажерские работы</a> -->
 <!-- ## <a id="test_tasks">Тестовые задания</a> -->
-## <a id="sertificates">Сертификаты</a>
+## <a id="sertificates">Сертификаты Нетологии</a>
+- [Сертификат об окончании курса Нетологии](certificates/QA_engineer_certificate.pdf)
 - [JavaScript для тестировщиков](certificates/JavaScript_for_testers_certificate.pdf)
 - [Автоматизированное тестирование](certificates/automation_testing_certificate.pdf)
 - [Компьютерная грамотность](certificates/computer_literacy_certificate.pdf)
