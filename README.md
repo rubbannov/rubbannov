@@ -81,7 +81,10 @@
 - Kotlin. [Приложение "Светофор"](https://github.com/rubbannov/TrafficLight_Kotlin) на Android.
 <!-- ## <a id="volunteer_projects">Волонтерские проекты</a> -->
 <!-- ## <a id="trainee_works">Стажерские работы</a> -->
-<!-- ## <a id="test_tasks">Тестовые задания</a> -->
+## <a id="test_tasks">Тестовые задания</a>
+
+- [Список тестовых заданий от Артёма Русова](https://github.com/rubbannov/test-assignments)
+
 ## <a id="sertificates">Сертификаты Нетологии</a>
 - [Сертификат об окончании курса Нетологии](certificates/QA_engineer_certificate.pdf)
 - [JavaScript для тестировщиков](certificates/JavaScript_for_testers_certificate.pdf)
