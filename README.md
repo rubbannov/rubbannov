@@ -83,7 +83,7 @@
 <!-- ## <a id="trainee_works">Стажерские работы</a> -->
 ## <a id="test_tasks">Тестовые задания</a>
 
-- [Список тестовых заданий от Артёма Русова](https://github.com/rubbannov/test-assignments)
+- [Тестовые задания](https://github.com/rubbannov/test-assignments)
 
 ## <a id="sertificates">Сертификаты Нетологии</a>
 - [Сертификат об окончании курса Нетологии](certificates/QA_engineer_certificate.pdf)
